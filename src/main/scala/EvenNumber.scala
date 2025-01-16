@@ -188,9 +188,9 @@ object EvenNumber {
 //    else {
 //      println("The customer is not eligible for a discount or membership benefits")
 //    }
-//  }
-//}
-//
+  }
+}
 
-//24.
+
+
 
